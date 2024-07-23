@@ -77,7 +77,7 @@
       <div class="container d-flex">
         <div class="logo mr-auto">
           <h5 class="text-light"><a href=""><span><img style="width:60px;" src="<?php echo base_url('assets/img/museum.png') ?>" alt="" class="img-fluid mb-3">
-                <b>Museum Adityawarman</b></span></a></h5>
+                <b>Museum Ganteng</b></span></a></h5>
         </div>
 
         <nav class="nav-menu d-none">
